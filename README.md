@@ -1,2 +1,2 @@
 # Arduino-Password
-Turn the servo when the correct password is entered. Closing at the touch of a button. Change the password if the lock is open.
+Opening the lock with the correct password. Closing at the push of a button. The password changes if the lock is open.
